@@ -1,0 +1,78 @@
+﻿#title{
+     color: Yellow;
+     margin: 15px;
+     font:normal normal 400 12pt normal Courier New, sans-serif;
+     background:#0000FF;
+}
+td 
+{
+     word-wrap: break-word; 
+}
+#parse{
+  font-family: Arial;
+  color: Teal;
+  font-size: 16px;
+  background: Aqua;
+  padding: 3px 8px 3px 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+
+#wrong {
+  font-family: Arial;
+  color: White;
+  font-size: 15px;
+  background: Red;
+   font-size: 13px;
+   font-weight: 400;
+  padding: 3px 8px 3px 8px;
+  text-decoration: none;
+}
+
+
+#complete {
+  font-family: Arial;
+  color: Yellow;
+  font-size: 15px;
+  background: Green;
+   font-size: 13px;
+   font-weight: 400;
+  padding: 3px 8px 3px 8px;
+  text-decoration: none;
+}
+
+
+
+#addButton {
+  font-family: Arial;
+  color: Black;
+  font-size: 15px;
+  background: Window;
+   font-size: 13px;
+   font-weight: 400;
+  padding: 3px 8px 3px 8px;
+  text-decoration: none;
+}
+
+
+
+#.addButton:hover {
+  background: Blue;
+  text-decoration: none;
+}
+
+
+
+#download{
+  font-family: Arial;
+  color: Black;
+  font-size: 16px;
+  background: #3CB371;
+  padding: 3px 8px 3px 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+body {
+    margin: 0px 0px 0px 0px;
+}
